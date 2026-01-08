@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/workspaces/blank-app-260108/.venv/bin/python",
+  "python.analysis.extraPaths": ["${workspaceFolder}"],
+  "terminal.integrated.defaultProfile.linux": "bash"
+}
